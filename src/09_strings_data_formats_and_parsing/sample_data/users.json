@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Sora",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Mio",
+    "active": false
+  }
+]

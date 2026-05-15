@@ -1,0 +1,4 @@
+  Python, Java, SQL  
+python basics
+Contact: sora@example.com
+Memo: replace Java with Python when needed.
